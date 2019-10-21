@@ -2,3 +2,61 @@
 ---
 
 @import "jekyll-theme-minimal";
+body {
+  font-family: "Georgia"
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Helvetica";
+}
+
+h1, h2 {
+  font-weight: 300;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+pre {
+  clear: both;
+}
+
+.highlight {
+  clear: both;
+}
+
+.meta-info {
+  font-family: monospace;
+  background-color: #f0f0f0;
+  padding: 0.5em 1em;
+  margin-bottom: 1em;
+}
+
+.post-container {
+  margin-bottom: 3em;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.image-list-inline {
+  min-width: 100%;
+  display: table;
+}
+
+.image-item-inline {
+  float: left;
+  list-style: none;
+  img {
+    height: 100px;
+  }
+}
+
+#big-image {
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 1em;
+}

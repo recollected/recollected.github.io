@@ -8,8 +8,11 @@ layout: base
     <a href="{{post.url}}">
       <h2>{{post.title}}</h2>
     </a>
-    <img src="/assets/img/{{post.hero_image_src}}" alt="{{post.hero_image_desc}}">
+    <a href="{{post.url}}">
+      <img src="/assets/img/{{post.hero_image_src}}" alt="{{post.hero_image_desc}}">
+    </a>
     <p>{{post.above_the_fold}}</p>
+    <a href="{{post.url}}" class="read-more text-italic">Read more</a>
   </div>
   {% endfor %}
   {% endif %}

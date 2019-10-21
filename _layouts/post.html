@@ -6,11 +6,38 @@ layout: base
 <h1>{{ page.title }}</h1>
 
 <!--<p class="view">by {{ page.author | default: site.author }}</p>-->
-{% for image in page.images %}
-  <img src="/assets/img/{{image.src}}" alt="{{image.desc}}">
+<img src="/assets/img/{{page.images[0].src}}" alt="{{page.images[0].desc}}" id="big-image">
+
+<ul class="image-list-inline">
+  {% for image in page.images %}
+  <li class="image-item-inline">
+    <img src="/assets/img/{{image.src}}" alt="{{image.desc}}" class="page-image">
+  </li>
+  {% endfor %}
+</ul>
+
+
+{% if page.meta %}
+<div class="meta-info">
+{% for meta in page.meta %}
+  <p><strong>{{meta.key}}:</strong> {{meta.val}}</p>
 {% endfor %}
+</div>
+{% endif %}
 {{content}}
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+
+<script>
+  let images = document.getElementsByClassName("page-image");
+  let bigImage = document.getElementById("big-image")
+  for (let i=0; i<images.length; i++) {
+    images[i].addEventListener("click", (event)=> {
+      bigImage["src"] = event.target.src;
+      bigImage["alt"] = event.target.alt;
+    })
+  }
+</script>
