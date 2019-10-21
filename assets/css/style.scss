@@ -22,6 +22,17 @@ pre {
   clear: both;
 }
 
+a:hover, a:focus, a:active {
+  font-weight: 300;
+  border-bottom: 2px solid dodgerblue;
+}
+
+.clickable-image {
+  &:hover, &:focus, &:active {
+  border-bottom: 0;}
+}
+
+
 .highlight {
   clear: both;
 }
