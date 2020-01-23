@@ -5,17 +5,20 @@ tags: ["Anvil", "metal", "concert", "fanny pack"]
 above_the_fold: 'Anvil is a heavy metal band that existed in the 80s, and then  disappeared for a long time. And then, in 2005 or so, there was a  documentary made and they were sort of getting back together, and they went on tour.'
 hero_image_src: "fannypack/anvil.png"
 hero_image_desc: "Anvil fannypack"
-images: [
-{src: "fannypack/anvil.png", desc: "Anvil fanny pack"}, 
-{src: "fannypack/front.png", desc: "Anvil fanny pack"},
-{src: "fannypack/side.png", desc: "Anvil fanny pack"},
-]
-meta: [
-{key: "What", val: "small black fanny pack with an Anvil logo on the front"},
-{key: "Year acquired", val: "2007"},
-{key: "Where it lives", val: "hanging on a hook on the inside of the hall closet door"},
-]
+images: 
 ---
+
+_This in-person interview has been transcribed._
+
+[![Anvil fanny pack](/assets/img/fannypack/anvil.png)](/assets/img/fannypack/anvil.png)
+
+
+> **What:** small black fanny pack with an Anvil logo on the front
+>
+> **Year acquired:** 2007
+>
+> **Where it lives:** hanging on a hook on the inside of the hall closet door
+>
 
 Anvil is a heavy metal band that existed in the 80s, and then disappeared for a long time. And then, in 2005 or so, there was a documentary made and they were sort of getting back together, and they went on tour. The documentary was really excellent and funny. 
 
@@ -26,6 +29,8 @@ So this is sort of a precious object and all that, but it’s also a terrible ob
 ### Sorry, you think that Batman wears fanny packs?
 
 No but he wore a utility belt. One of the main features of Batman is that he has this utility belt with all this cool stuff on it. So if you’re interested in utility belts, you have to be aware that utility belts are not very far distanced from fanny packs. So you have to be aware that you’re skating on the thinnest of ice.
+
+[![Anvil fanny pack, front](/assets/img/fannypack/front.png)](/assets/img/fannypack/front.png)
 
 ### What else was there in the V.I.P. pass?
 
@@ -40,6 +45,8 @@ I don’t think it represents anything. It’s the physical evidence of that who
 ### But you didn’t bring your anvil t-shirt in you brought a fanny pack in. what’s the difference?
 
 I think the fanny pack is a funnier object. I think it’s a more delightful object. It’s like a rock t-shirt — I know that people love concert shirts, and I have, in my time, loved concert shirts. But to me a t-shirt is more ephemeral, less deeply precious. 
+
+[![Anvil fanny pack, zipper detail](/assets/img/fannypack/side.png)](/assets/img/fannypack/side.png)
 
 ### What would you feel if you lost it?
 
