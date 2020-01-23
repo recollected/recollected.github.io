@@ -8,7 +8,9 @@ hero_image_desc: "Monkey face"
 meta: 
 ---
 
-![Monkey face](/assets/img/monkey/detail-face-2.jpg)
+_This in-person interview has been transcribed._
+
+[![Monkey face](/assets/img/monkey/detail-face-2.jpg)](/assets/img/monkey/detail-face-2.jpg)
 
 > **What:** Nana bear / bear. A teddy bear
 >
@@ -23,7 +25,7 @@ This is a toy that our mom made for me when I was really little. She made it bec
 I also have memories of playing with it, taking it out to the children’s play area and playing with it on the monkey bars and making it swing from them, which in retrospect was probably really cute.
 
 
-![Picture of the monkey](/assets/img/monkey/front.jpg)
+[![Picture of the monkey](/assets/img/monkey/front.jpg)](/assets/img/monkey/front.jpg)
 
 The most important memory I have of him was also probably one of my first memories, of our immigration from Russia to Israel. I remember that it was with me in the plane — I put it in a backpack, maybe. I was holding it, I was clutching it when we got out of the plane, and we actually walked on the tarmac, from what I remember. It was a long plane flight and we got out on the tarmac and it was really hot. It was so hot. I’d never been in a climate like that before. And then we got on the bus, we were on the bus for a long time. And I kept thinking, “as long as you hold on to the monkey, you will be OK. As long as you hold on to the monkey, you will be OK.” It was like I really had to take care of the monkey.
 
@@ -39,7 +41,7 @@ I think both. It was possibly named Dima, before I renamed it Shmuel. I vaguely 
 
 Is it possible that it was that boy’s Russian name? That’d be weird. 
 
-![Monkey foot](/assets/img/monkey/foot.jpg)
+[![Monkey foot](/assets/img/monkey/foot.jpg)](/assets/img/monkey/foot.jpg)
 
 ### What does it represent to you?
 
@@ -57,7 +59,7 @@ If you asked me a couple years ago I probably would have said it was about how m
 
 It is right across from the bed. It’s pretty much the first thing I see when I wake up.
 
-![Monkey detail face](/assets/img/monkey/detail-face.jpg)
+[![Monkey detail face](/assets/img/monkey/detail-face.jpg)](/assets/img/monkey/detail-face.jpg)
 
 ### Do you have any other memories associated with it?
 
