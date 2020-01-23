@@ -7,7 +7,7 @@ layout: base
 
 <!--<p class="view">by {{ page.author | default: site.author }}</p>-->
 
-{% if page.images %}}
+{% if page.images %}
 <img src="/assets/img/{{page.images[0].src}}" alt="{{page.images[0].desc}}" id="big-image">
 <ul class="image-list-inline">
   {% for image in page.images %}
