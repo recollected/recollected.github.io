@@ -12,12 +12,6 @@ _This in-person interview has been transcribed._
 
 [![Monkey face](/assets/img/monkey/detail-face-2.jpg)](/assets/img/monkey/detail-face-2.jpg)
 
-> **What:** Nana bear / bear. A teddy bear
->
-> **Age when acquired:** 22
->
-> **Care instructions:** hand wash and air dry
-
 
 ### What is it?
 This is a toy that our mom made for me when I was really little. She made it because it was very expensive and difficult to buy toys in the Soviet Union in the late 80s. And instead of standing in line for hours and then getting some sort of plastic, impersonal thing, or even not getting it at all because the store runs out, she got the materials and made this felt puppet. It’s a monkey, it actually looks like a lot of Russian children’s books’ characters. It has a sort of little pouch for a mouth that I used to be really fascinated by, and it has bangs, this monkey. I was three or so when I got it. I definitely remember the mouth of this monkey, and it probably helped me work out some fine motor skills trying to put stuff in it. And it has these long limbs. 
