@@ -6,8 +6,9 @@ layout: base
 <h1>{{ page.title }}</h1>
 
 <!--<p class="view">by {{ page.author | default: site.author }}</p>-->
-<img src="/assets/img/{{page.images[0].src}}" alt="{{page.images[0].desc}}" id="big-image">
 
+{% if page.images %}}
+<img src="/assets/img/{{page.images[0].src}}" alt="{{page.images[0].desc}}" id="big-image">
 <ul class="image-list-inline">
   {% for image in page.images %}
   <li class="image-item-inline">
@@ -15,7 +16,7 @@ layout: base
   </li>
   {% endfor %}
 </ul>
-
+{% endif %}
 
 {% if page.meta %}
 <div class="meta-info">

@@ -5,23 +5,25 @@ tags: ["monkey", "handmade", "childhood"]
 above_the_fold: 'This is a toy that our mom made for me when I was really little. She made it because it was very expensive and difficult to buy toys in the Soviet Union in the late 80s. And instead of standing in line for hours and then getting some sort of plastic, impersonal thing, or even not getting it at all because the store runs out, she got the materials and made this felt puppet.'
 hero_image_src: "monkey/detail-face-2.jpg"
 hero_image_desc: "Monkey face"
-images: [
-{src: "monkey/detail-face-2.jpg", desc: "Monkey face"}, 
-{src: "monkey/front.jpg", desc: "Picture of the monkey"},
-{src: "monkey/foot.jpg", desc: "Monkey foot"},
-{src: "monkey/detail-face.jpg", desc: "Monkey face detail"},
-]
-meta: [
-{key: "What", val: "Nana bear / bear. A teddy bear"},
-{key: "Age when acquired", val: "22"},
-{key: "Care instructions", val: "hand wash and air dry"},
-]
+meta: 
 ---
+
+![Monkey face](/assets/img/monkey/detail-face-2.jpg)
+
+> **What:** Nana bear / bear. A teddy bear
+>
+> **Age when acquired:** 22
+>
+> **Care instructions:** hand wash and air dry
+
 
 ### What is it?
 This is a toy that our mom made for me when I was really little. She made it because it was very expensive and difficult to buy toys in the Soviet Union in the late 80s. And instead of standing in line for hours and then getting some sort of plastic, impersonal thing, or even not getting it at all because the store runs out, she got the materials and made this felt puppet. It’s a monkey, it actually looks like a lot of Russian children’s books’ characters. It has a sort of little pouch for a mouth that I used to be really fascinated by, and it has bangs, this monkey. I was three or so when I got it. I definitely remember the mouth of this monkey, and it probably helped me work out some fine motor skills trying to put stuff in it. And it has these long limbs. 
 
 I also have memories of playing with it, taking it out to the children’s play area and playing with it on the monkey bars and making it swing from them, which in retrospect was probably really cute.
+
+
+![Picture of the monkey](/assets/img/monkey/front.jpg)
 
 The most important memory I have of him was also probably one of my first memories, of our immigration from Russia to Israel. I remember that it was with me in the plane — I put it in a backpack, maybe. I was holding it, I was clutching it when we got out of the plane, and we actually walked on the tarmac, from what I remember. It was a long plane flight and we got out on the tarmac and it was really hot. It was so hot. I’d never been in a climate like that before. And then we got on the bus, we were on the bus for a long time. And I kept thinking, “as long as you hold on to the monkey, you will be OK. As long as you hold on to the monkey, you will be OK.” It was like I really had to take care of the monkey.
 
@@ -36,6 +38,8 @@ He was in fourth grade and I was in second grade, so I had a crush on this older
 I think both. It was possibly named Dima, before I renamed it Shmuel. I vaguely remember thinking of it as Dima. 
 
 Is it possible that it was that boy’s Russian name? That’d be weird. 
+
+![Monkey foot](/assets/img/monkey/foot.jpg)
 
 ### What does it represent to you?
 
@@ -52,6 +56,8 @@ If you asked me a couple years ago I probably would have said it was about how m
 ### Where does it live in your home now that you’ve moved it out of your bed?
 
 It is right across from the bed. It’s pretty much the first thing I see when I wake up.
+
+![Monkey detail face](/assets/img/monkey/detail-face.jpg)
 
 ### Do you have any other memories associated with it?
 
