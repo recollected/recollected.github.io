@@ -3,7 +3,7 @@ layout: post
 title: "The Baseball"
 tags: ["baseball", "Hank Aaron", "childhood", "minor league"]
 above_the_fold: '[This] is my most prized possession, apart from anything related to my  family. It’s a Little League baseball that is signed by Hank Aaron.'
-hero_image_src: "baseball/Adam_Sig_Detail-small.png"
+hero_image_src: "baseball/sig-detail-small.png"
 hero_image_desc: "Baseball signature"
 images:
 ---
