@@ -30,6 +30,10 @@ a:hover, a:focus, a:active {
   font-weight: 300;
 }
 
+section {
+  border: 0;
+}
+
 .clickable-image {
   &:hover, &:focus, &:active {
   border-bottom: 0;}
