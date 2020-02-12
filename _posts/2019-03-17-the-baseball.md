@@ -3,13 +3,13 @@ layout: post
 title: "The Baseball"
 tags: ["baseball", "Hank Aaron", "childhood", "minor league"]
 above_the_fold: '[This] is my most prized possession, apart from anything related to my  family. It’s a Little League baseball that is signed by Hank Aaron.'
-hero_image_src: "baseball/sig-detail-small.png"
+hero_image_src: "baseball/sig-detail-small.jpg"
 hero_image_desc: "Baseball signature"
 images:
 ---
 _This in-person interview has been transcribed._
 
-[![Hank Aaron's signature detail](/assets/img/baseball/sig-detail-small.png)](/assets/img/baseball/sig-detail-small.png)
+[![Hank Aaron's signature detail](/assets/img/baseball/sig-detail-small.jpg)](/assets/img/baseball/sig-detail-small.jpg)
 
 > **What:** baseball, signed by Hank Aaron
 >
@@ -23,7 +23,7 @@ _This in-person interview has been transcribed._
 It’s dirty, it’s all scuffed up cause it was used in a game with a bunch of thirteen year olds a 
 long time ago. It’s a cheap and kind of lame baseball signed by one of the greatest players of all time.
 
-[![Baseball front view](/assets/img/baseball/front.png)](/assets/img/baseball/front.png)
+[![Baseball front view](/assets/img/baseball/front.jpg)](/assets/img/baseball/front.jpg)
 
 ### When did you get it?
 It’s dirty, it’s all scuffed up cause it was used in a game with a bunch of 
@@ -36,7 +36,7 @@ greatest players of all time.
 
 It also represents this sense that great public historical figures, icons, heroes, aren’t really that far removed from ordinary life, you know? It connects my life with this person who everybody respects and reveres.
 
-[![Baseball side view](/assets/img/baseball/side.png)](/assets/img/baseball/side.png)
+[![Baseball side view](/assets/img/baseball/side.jpg)](/assets/img/baseball/side.jpg)
 
 ### Did you ever see Hank Aaron again?
 

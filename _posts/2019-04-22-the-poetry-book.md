@@ -4,13 +4,13 @@ title: "The Poetry Book"
 tags: ["book", "poetry", "Tuwim", "WWII", "labor camp", "Poland", "Russia"]
 above_the_fold: "This is a book that was printed in 1936. It’s a book of collected poems by Julian Tuwim who is a very well known and beloved Polish poet, 
 and also a hero in the Polish punk scene today. But this was a different scene in the '30s..."
-hero_image_src: "poetry/book.png"
+hero_image_src: "poetry/book.jpg"
 hero_image_desc: "The Poetry Book"
 meta: 
 ---
 _This in-person interview has been transcribed._
 
-[![Poetry book cover. Title in Polish: Wiersze Zebrane. Author: Julian Tuwim](/assets/img/poetry/book-jacket.png)](/assets/img/poetry/book-jacket.png)
+[![Poetry book cover. Title in Polish: Wiersze Zebrane. Author: Julian Tuwim](/assets/img/poetry/book-jacket.jpg)](/assets/img/poetry/book-jacket.jpg)
 
 
 This is a book that was printed in 1936. It’s a book of collected poems by Julian Tuwim who is a very well known and beloved Polish poet, 
@@ -40,7 +40,7 @@ While she was in this camp, she was able to get mail from her family every few m
 Her sister was actually in Poland but had to cross the border to Ukraine in order to send packages, 
 it was a laborious process of sending mail during the war.
 
-[![Book cracked open, showing cloth bookmark and a shadow of a handprint](/assets/img/poetry/book.png)](/assets/img/poetry/book.png)
+[![Book cracked open, showing cloth bookmark and a shadow of a handprint](/assets/img/poetry/book.jpg)](/assets/img/poetry/book.jpg)
 
 > ...this was like her passport, this was the thing that connected her to her country that no longer existed. 
 
@@ -64,7 +64,7 @@ she said that the book itself was sort of her identity papers.
 Because her Polish papers were useless at that point. So this was like her passport, this was the thing that connected 
 her to her country that no longer existed. 
 
-[![Book's original soft cover.](/assets/img/poetry/original-cover.png)](/assets/img/poetry/original-cover.png)
+[![Book's original soft cover.](/assets/img/poetry/original-cover.jpg)](/assets/img/poetry/original-cover.jpg)
 
 [Anita] joked that this book was so valuable to her, but actually didn’t have a lot of value in labor camp terms — it wasn’t 
 the kind of thing that she needed to protect, or [that] people would try to steal from her, she could kind of just hold it. 
@@ -82,7 +82,7 @@ So they actually got to know each other a little bit. [Anita] told him this stor
 He said in this letter that he’s seen many beautifully produced editions of his poems but this tattered old edition is to him the most beautiful. 
 So that obviously meant a lot to her to be able to get that confirmation from the poet.
 
-[![The letter Julian Tuwim wrote to Anita](/assets/img/poetry/letter.png)](/assets/img/poetry/letter.png)
+[![The letter Julian Tuwim wrote to Anita](/assets/img/poetry/letter.jpg)](/assets/img/poetry/letter.jpg)
 
 ### Can you describe it? 
 
@@ -92,7 +92,7 @@ Later in life, Anita had it refurbished professionally by museum curators, so it
 It’s sort of an old, cheap edition of this book. [Anita] had a photo of Tuwim put into it, and also the original letter that he had written to her inserted into it.
 But still pretty thin pages, it’s still falling apart.
 
-[![Photo of Julian Tuwim put in by Anita Leyfell](/assets/img/poetry/photo.png)](/assets/img/poetry/photo.png)
+[![Photo of Julian Tuwim put in by Anita Leyfell](/assets/img/poetry/photo.jpg)](/assets/img/poetry/photo.jpg)
 
 ### How long has it been in your possession?
 Just since she died. It was in her house, this was a very important object to her obviously throughout her whole life, 
@@ -110,7 +110,7 @@ And obviously as a writer myself and as someone who values the written word and 
 this is one of those really special editions where you can’t even imagine just how important writing can be to someone else. 
 This is one of those unique cases where it matters. As a writer it’s very important to see books like these. 
 
-[![Book cracked open to the poem Jutro (tomorrow)](/assets/img/poetry/jutro.png)](/assets/img/poetry/jutro.png)
+[![Book cracked open to the poem Jutro (tomorrow)](/assets/img/poetry/jutro.jpg)](/assets/img/poetry/jutro.jpg)
 
 ### Where does it live in your home?
 Right now it’s just on my bookshelf with my other books. I kind of like the idea of it just being there with the books and not necessarily being an object, a museum piece. 
