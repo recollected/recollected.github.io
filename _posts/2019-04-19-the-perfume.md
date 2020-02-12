@@ -3,14 +3,14 @@ layout: post
 title: "The Perfume"
 tags: ["perfume", "mystery", "neighbor", "Soviet Union"]
 above_the_fold: "We lived in a communal apartment; one room belonged to a middle-aged, frequently drunk jerk, and another room belonged to me and now to the love of my life..."
-hero_image_src: "perfume/1.png"
+hero_image_src: "perfume/1.jpg"
 hero_image_desc: "The Perfume"
 meta: 
 ---
 _This emailed response has been lightly edited for clarity._
 
 
-[![The little perfume bottle](/assets/img/perfume/1.png)](/assets/img/perfume/1.png)
+[![The little perfume bottle](/assets/img/perfume/1.jpg)](/assets/img/perfume/1.jpg)
 
 We lived in a communal apartment; one room belonged to a middle-aged, frequently drunk jerk, and another room belonged to me and now to the love of my life... 
 The neighbor kept to himself. He was a chauffeur [for] somebody important in some circles. From time to time, middle-aged women spent nights in his room; not sure these were [the same women] or different. But one time we caught a glimpse of a rare bird who flew into his room — somebody young, beautiful, in unearthly refined light cloths, who left in our hallway a heavenly scent. What brought her into his hole and why [did] she stay there, hiding for days?

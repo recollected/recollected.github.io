@@ -3,14 +3,14 @@ layout: post
 title: "The Fanny Pack"
 tags: ["Anvil", "metal", "concert", "fanny pack"]
 above_the_fold: 'Anvil is a heavy metal band that existed in the 80s, and then  disappeared for a long time. And then, in 2005 or so, there was a  documentary made and they were sort of getting back together, and they went on tour.'
-hero_image_src: "fannypack/anvil.png"
+hero_image_src: "fannypack/anvil.jpg"
 hero_image_desc: "Anvil fannypack"
 images: 
 ---
 
 _This in-person interview has been transcribed._
 
-[![Anvil fanny pack](/assets/img/fannypack/anvil.png)](/assets/img/fannypack/anvil.png)
+[![Anvil fanny pack](/assets/img/fannypack/anvil.jpg)](/assets/img/fannypack/anvil.jpg)
 
 
 > **What:** small black fanny pack with an Anvil logo on the front
@@ -30,7 +30,7 @@ So this is sort of a precious object and all that, but it’s also a terrible ob
 
 No but he wore a utility belt. One of the main features of Batman is that he has this utility belt with all this cool stuff on it. So if you’re interested in utility belts, you have to be aware that utility belts are not very far distanced from fanny packs. So you have to be aware that you’re skating on the thinnest of ice.
 
-[![Anvil fanny pack, front](/assets/img/fannypack/front.png)](/assets/img/fannypack/front.png)
+[![Anvil fanny pack, front](/assets/img/fannypack/front.jpg)](/assets/img/fannypack/front.jpg)
 
 ### What else was there in the V.I.P. pass?
 
@@ -46,7 +46,7 @@ I don’t think it represents anything. It’s the physical evidence of that who
 
 I think the fanny pack is a funnier object. I think it’s a more delightful object. It’s like a rock t-shirt — I know that people love concert shirts, and I have, in my time, loved concert shirts. But to me a t-shirt is more ephemeral, less deeply precious. 
 
-[![Anvil fanny pack, zipper detail](/assets/img/fannypack/side.png)](/assets/img/fannypack/side.png)
+[![Anvil fanny pack, zipper detail](/assets/img/fannypack/side.jpg)](/assets/img/fannypack/side.jpg)
 
 ### What would you feel if you lost it?
 
