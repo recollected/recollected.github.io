@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Monkey"
-tags: ["monkey", "handmade", "childhood"]
+tags: ["monkey", "handmade", "childhood", "Soviet Union"]
 above_the_fold: 'This is a toy that our mom made for me when I was really little. She made it because it was very expensive and difficult to buy toys in the Soviet Union in the late 80s. And instead of standing in line for hours and then getting some sort of plastic, impersonal thing, or even not getting it at all because the store runs out, she got the materials and made this felt puppet.'
 hero_image_src: "monkey/detail-face-2.jpg"
 hero_image_desc: "Monkey face"
