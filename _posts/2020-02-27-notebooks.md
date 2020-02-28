@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notebooks"
-tags: ["notebooks", "sketchbooks", "art", "design", "labor camp", "Poland", "Russia"]
+tags: ["notebooks", "sketchbooks", "art", "markers", "pencils"]
 above_the_fold: "The reason that I had a hard time starting notebooks in the beginning was — that was my first exposure to them, as a performance.
 And that is, to me, a really bad way to keep a notebook — it's worrying about what other people are going to think about each page you make.
 So I do think that was a groundbreaking moment for me where I was like, these pages are not for anybody except myself. "
