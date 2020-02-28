@@ -22,12 +22,7 @@ would be around 2016. But turns out I use a lot of paper, and I've basically kep
 
 [![A spread with diagrams, maybe from a math class?](/assets/img/notebooks/spread4.jpg)](/assets/img/notebooks/spread4.jpg)
 
-### Do you work on more than one at a time?
-Yes actually, a little less commonly now, but I would have one big one that's just for sketching art on, and  
-I'd usually have one smaller one that's for work and just for taking notes. I usually have at least two going 
-at the same time.
-
-[![A spread, one side with figures and creatures, one side that's the owner's old house.](/assets/img/notebooks/creatures-house.jpg)](/assets/img/notebooks/creatures-house.jpg)
+[![A spread with figures in pen and colored pencils.](/assets/img/notebooks/spread2.jpg)](/assets/img/notebooks/spread2.jpg)
 
 ### How do you choose them?
 There was a point in my life where I thought the tools that I purchased kind of represented my identity, as an artist or
@@ -35,8 +30,8 @@ a designer or whatever. Nowadays I don't really care. Just — there was a sale 
 could buy two notebooks and get one for free, so like great I'm buying three of these. So it's kind of how I approach
 my supplies nowadays, much more utilitarian.
 
+[![A spread, one side with figures and creatures, one side that's the owner's old house.](/assets/img/notebooks/creatures-house.jpg)](/assets/img/notebooks/creatures-house.jpg)
 
-[![A spread with figures in pen and colored pencils.](/assets/img/notebooks/spread2.jpg)](/assets/img/notebooks/spread2.jpg)
 
 I do have a preference, which is notebooks that are usually heavy duty paper that you can watercolor in, because 
 I'd like to use watercolors and markers and a lot of colored pencils. I like paper that is thick, and that it won't go through 
